@@ -3,7 +3,7 @@
 class phone{
     public void call(){
         System.out.println("Calling.......");
-    }
+     }
     public void On(){
         System.out.println("Turning on phone.......");
     }
