@@ -16,6 +16,7 @@ class Avon implements Bicycle{
 public class Lec54 {
     public static void main(String[] args) {
         Avon A = new Avon();
+        B
         A.applybreak(7);
     }
 }
